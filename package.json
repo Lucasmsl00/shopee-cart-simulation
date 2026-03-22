@@ -1,0 +1,21 @@
+{
+  "name": "shopee-cart",
+  "version": "1.0.0",
+  "description": "A simple shopping cart simulation built with Node.js, focusing on business logic and modularization.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "echo \"No tests implemented yet\""
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "shopping-cart",
+    "backend",
+    "learning"
+  ],
+  "author": "Lucas Lima",
+  "license": "MIT"
+}
